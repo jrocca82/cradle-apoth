@@ -10,7 +10,7 @@ const MainHeader = () => (
 		padding="20px"
 	>
 		<Image src="logo.png" boxSize="200px" objectFit="contain" />
-		<Text fontSize="36px" textAlign="center">WIP - Where Nature Meets Nurture: Healing from the Cradle of Mankind</Text>
+		<Text fontSize="36px" textAlign="center">Where Nature Meets Nurture: Healing from the Cradle of Mankind</Text>
 	</Flex>
 );
 

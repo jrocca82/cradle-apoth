@@ -11,7 +11,6 @@ const Hero = () => (
 				We want to be the bridge between cultures and traditions through the promotion of African herbal remedies and the popular Western herbal world, creating a global community united by a shared passion for holistic well-being.
 			</Text>
 		</Flex>
-		<Image src="medicine.jpg" boxSize="300px" borderRadius="20px" />
 	</Flex>
 );
 
