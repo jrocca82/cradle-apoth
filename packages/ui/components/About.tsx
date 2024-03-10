@@ -1,5 +1,4 @@
-import { Flex, Text, Image, Heading, OrderedList, ListItem, List } from "@chakra-ui/react";
-import Link from "next/link";
+import { Flex, Text, Heading } from "@chakra-ui/react";
 
 const About = () => (
     <Flex

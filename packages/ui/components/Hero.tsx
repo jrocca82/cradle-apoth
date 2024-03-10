@@ -1,4 +1,4 @@
-import { Flex, Text, Image, Heading } from "@chakra-ui/react";
+import { Flex, Text } from "@chakra-ui/react";
 
 const Hero = () => (
 	<Flex padding={{ base: "20px", md: "50px" }} pos="relative" align="center" flexDirection={{ base: "column", md: "row" }}>
